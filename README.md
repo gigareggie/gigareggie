@@ -1,4 +1,9 @@
-# 👩‍💻 Regina Fischer  
+<p align="center">
+  <img src="https://i.imgur.com/m282VoD.png" height="300px" width="300px" alt="Not regigigas" />
+</p>
+
+
+# Regina Fischer  
 
 Hi, I'm Regina (@giggareggie), a low-level dev passionate about system design, OS internals, and pushing hardware limits. I enjoy writing clean, efficient code in assembly, C, and diving deep into computer architecture. When I'm not coding, you'll find me vibing to my favorite tunes. 🎧  
 
